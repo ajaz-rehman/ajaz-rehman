@@ -5,17 +5,6 @@
 
 - 📫 How to reach me **ajazurrehman4@gmail.com**
 
-## Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/ajaz-ur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaz-ur-rehman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajaz-ur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajaz-ur-rehman" height="30" width="40" /></a>
-</p>
-
-## Skills
-
-[![Skillsets](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,nodejs,figma,express,tailwind,py,php,java,nuxtjs,docker,mysql,postgres,nestjs,flask,aws,gcp,git)](https://skillicons.dev)
-
 ## Stats
 
 <table>
@@ -28,3 +17,29 @@
     </td>
   </tr>
 </table>
+
+## Skills
+
+#### Languages
+
+[![Skillsets](https://skillicons.dev/icons?i=js,html,css,ts,php,java,cpp,py)](https://skillicons.dev)
+
+#### Front-End
+
+[![Skillsets](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,vite,tailwind,materialui,bootstrap,figma,xd)](https://skillicons.dev)
+
+#### Back-End
+
+[![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,bun)](https://skillicons.dev)
+
+#### Database
+
+[![Skillsets](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis)](https://skillicons.dev)
+
+#### Cloud
+
+[![Skillsets](https://skillicons.dev/icons?i=aws,gcp,azure,heroku,cloudflare)](https://skillicons.dev)
+
+#### Tools
+
+[![Skillsets](https://skillicons.dev/icons?i=git,nginx,docker,babel,webpack,bash,figma)](https://skillicons.dev)
