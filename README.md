@@ -42,4 +42,4 @@
 
 #### Tools
 
-[![Skillsets](https://skillicons.dev/icons?i=git,nginx,docker,linux,babel,webpack,bash)](https://skillicons.dev)
+[![Skillsets](https://skillicons.dev/icons?i=git,nginx,docker,linux,babel,webpack,bash,postman)](https://skillicons.dev)
