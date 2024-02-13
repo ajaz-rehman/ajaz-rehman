@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📫 How to reach me **ajazurrehman4@gmail.com**
+- 📫 You can reach me at **ajazurrehman4@gmail.com**
 
 ## Stats
 
