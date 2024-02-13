@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajaz Ur Rehman</h1>
 <h3 align="center">A Software Engineer with 5 years of experience, focused on building accessible products for the web.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaz-ur-rehman" alt="ajaz-ur-rehman" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 📫 How to reach me **ajazurrehman4@gmail.com**
