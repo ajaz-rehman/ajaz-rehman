@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajaz Ur Rehman</h1>
 <h3 align="center">A Software Engineer with 5 years of experience, focused on building accessible products for the web.</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-
-- 📫 You can reach me at **ajazurrehman4@gmail.com**
-
 ## Stats
 
 <table>
