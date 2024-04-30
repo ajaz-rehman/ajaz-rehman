@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajaz Ur Rehman</h1>
-<h3 align="center">A Software Engineer with 5 years of experience, focused on building accessible products for the web.</h3>
+<h3 align="center">A Software Engineer focused on building accessible products for the web.</h3>
 
 ## Stats
 
