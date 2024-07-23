@@ -26,7 +26,7 @@
 
 #### Back-End
 
-[![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,bun)](https://skillicons.dev)
+[![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask)](https://skillicons.dev)
 
 #### Database
 
