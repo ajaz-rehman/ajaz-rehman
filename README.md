@@ -18,7 +18,7 @@
 
 #### Languages
 
-[![Skillsets](https://skillicons.dev/icons?i=js,html,css,ts,php,java,cpp,py)](https://skillicons.dev)
+[![Skillsets](https://skillicons.dev/icons?i=js,html,css,ts,py)](https://skillicons.dev)
 
 #### Front-End
 
