@@ -56,4 +56,3 @@ An AI-based image generation and editing tool utilizing an AI model API from Hug
 
 - [LinkedIn](https://linkedin.com/in/ajaz-ur-rehman)
 - [Email](mailto:ajazurrehman4@gmail.com)
-- 
