@@ -6,6 +6,16 @@
 - 🐦 I'm seeking a back-end or full-stack role, ideally writing JavaScript or Python.
 - 🎤 I'd love to work at a startup on a tight-knit team where I can quickly make an impact.
 
+## About Me
+
+I'm a passionate Full-Stack Developer with over 5 years of experience, specializing in JavaScript, TypeScript, and Python. My journey in tech has been driven by a love for building innovative SaaS products and tackling greenfield projects. With a background in both front-end and back-end development, I've successfully founded and developed multiple web applications, each solving unique challenges in the digital space.
+
+My expertise spans across modern web technologies, cloud services (particularly AWS), and database management. I thrive in fast-paced, collaborative environments where I can leverage my technical skills and entrepreneurial spirit to make meaningful contributions.
+
+When I'm not coding, you'll find me exploring virtual worlds in video games, creating 3D models, hiking through nature, or planning my next travel adventure. I'm always eager to learn and grow, both in my professional skills and personal interests.
+
+Currently, I'm seeking opportunities to bring my full-stack expertise to a dynamic startup environment, where I can continue to innovate and make a significant impact.
+
 ## Skills
 
 #### Languages
