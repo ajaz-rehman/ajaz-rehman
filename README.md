@@ -49,4 +49,4 @@ An AI-based image generation and editing tool utilizing an AI model API from Hug
 - 🖌️ I dabble in 3D modeling and enjoy creating digital art.
 - 📺 I'm an anime enthusiast and love watching movies and TV shows.
 - 🥾 Hiking is one of my favorite ways to unwind and connect with nature.
-- 🌍 I want to travel to different countries and learn about various cultures, with a desire to move to Germany one day.
+- 🌍 I want to travel to different countries and learn about various cultures.
