@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ajaz Ur Rehman</h1>
-<h3 align="center">A Software Engineer focused on building accessible products for the web.</h3>
+<h1 align="center">Hi 👋, I'm Ajaz</h1>
+<h3 align="center">I'm a Full-Stack Web Developer experienced in building SaaS services and greenfield projects. I'm seeking a backend or full-stack web development role, ideally writing JavaScript or Python. I'd love to work at a startup on a tight-knit team where I can quickly make an impact. If you're hiring let's chat!</h3>
 
 ## Stats
 
