@@ -13,12 +13,8 @@
 
 #### Back-End
 
-[![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask)](https://skillicons.dev)
+[![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,aws)](https://skillicons.dev)
 
 #### Database
 
 [![Skillsets](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
-
-#### Cloud
-
-[![Skillsets](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
