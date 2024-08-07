@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ajaz</h1>
-<h3 align="center">I'm a Full-Stack Web Developer experienced in building SaaS services and greenfield projects. I'm seeking a backend or full-stack web development role, ideally writing JavaScript or Python. I'd love to work at a startup on a tight-knit team where I can quickly make an impact. If you're hiring let's chat!</h3>
+# Hi, I'm Ajaz
+
+- 🖥️ I've been coding in JavaScript and TypeScript, primarily for over 5 years.
+- 🏗️ I'm the co-founder of [Clearalist](https://clearalist.com)
+- 🦀 I like building SaaS services and working on greenfield projects.
+- 🐦 I'm seeking a back-end or full-stack role, ideally writing JavaScript or Python.
+- 🎤 I'd love to work at a startup on a tight-knit team where I can quickly make an impact.
 
 ## Skills
 
