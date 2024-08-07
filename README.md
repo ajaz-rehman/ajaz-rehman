@@ -16,19 +16,28 @@ When I'm not coding, you'll find me exploring virtual worlds in video games, cre
 
 Currently, I'm seeking opportunities to bring my full-stack expertise to a dynamic startup environment, where I can continue to innovate and make a significant impact.
 
-## Skills
+## Professional Experience
 
-#### Languages
-[![Skillsets](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
+### Front-End Developer at Adsum (Jul 2022 - Sep 2023)
+Adsum is a Fintech company specializing in instant VAT refunds.
 
-#### Front-End
-[![Skillsets](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,vite)](https://skillicons.dev)
+- Developed a custom KYC flow with Veriff, automating user verification.
+- Created a UI component library with over 100 components based on Atomic Design principles.
+- Developed the frontend and chat interface for the Tax AI bot, finishing 2 months ahead of schedule.
 
-#### Back-End
-[![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,aws)](https://skillicons.dev)
+### Front-End Developer at SKOOT (Dec 2021 - May 2022)
+SKOOT is a Greentech company offering carbon offsetting services.
 
-#### Database
-[![Skillsets](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+- Developed a UI component library with over 50 reusable components, enhancing modularity.
+- Created responsive, accessible web pages using Micro-Frontend Architecture.
+- Delivered the product 1 month ahead of schedule by meeting milestones and completing tasks early.
+
+### Web Developer at Pabbly (Jan 2019 - Dec 2019)
+Pabbly is a Business management platform focusing on Email Marketing services.
+
+- Developed the Email Automation project, enabling automated campaigns with a no-code builder.
+- Transformed data for over 1,000 users with zero downtime, ensuring a seamless transition.
+- Optimized MySQL queries and introduced Composer, improving performance and maintainability.
 
 ## SaaS Products
 
@@ -52,6 +61,20 @@ A workflow automation service that enabled users to connect apps and transfer da
 - Integrated 10+ popular apps, including Gmail, Google Sheets, and Discord, using OAuth and Webhooks.
 - Enabled subscription payments with PayPal and used JWT and Google OAuth for authentication.
 - Implemented automated end-to-end testing, configured emails with SES, and deployed on AWS.
+
+## Skills
+
+#### Languages
+[![Skillsets](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
+
+#### Front-End
+[![Skillsets](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,vite)](https://skillicons.dev)
+
+#### Back-End
+[![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,aws)](https://skillicons.dev)
+
+#### Database
+[![Skillsets](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 ## Hobbies and Interests
 
