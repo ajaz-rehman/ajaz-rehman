@@ -20,7 +20,7 @@
 #### Database
 [![Skillsets](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
-## My SaaS Projects
+## SaaS Projects
 
 ### [Clearalist](https://clearalist.com)
 A Bulk Email List Verification service that uses Telnet and SMTP protocols to verify thousands of emails.
