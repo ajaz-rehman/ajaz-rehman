@@ -49,10 +49,4 @@ An AI-based image generation and editing tool utilizing an AI model API from Hug
 - 🖌️ I dabble in 3D modeling and enjoy creating digital art.
 - 📺 I'm an anime enthusiast and love watching movies and TV shows.
 - 🥾 Hiking is one of my favorite ways to unwind and connect with nature.
-- 🌍 I have a desire to travel to different countries and learn about various cultures.
-- 🇩🇪 I'm passionate about learning new languages and cultures, with a desire to move to Germany one day.
-
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/ajaz-ur-rehman)
-- [Email](mailto:ajazurrehman4@gmail.com)
+- 🌍 I want to travel to different countries and learn about various cultures, with a desire to move to Germany one day.
