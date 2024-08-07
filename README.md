@@ -83,3 +83,11 @@ A workflow automation service that enabled users to connect apps and transfer da
 - 📺 I'm an anime enthusiast and love watching movies and TV shows.
 - 🥾 Hiking is one of my favorite ways to unwind and connect with nature.
 - 🌍 I want to travel to different countries and learn about various cultures.
+
+## Connect with Me
+
+- 📧 Email: [ajazurrehman4@gmail.com]
+- 🌐 Portfolio: [ajaz-ur-rehman.github.io](https://ajaz-ur-rehman.github.io)
+- 🔗 LinkedIn: [Ajaz Ur Rehman](https://www.linkedin.com/in/ajaz-ur-rehman)
+
+Feel free to reach out for collaborations or just a chat about technology and development!
