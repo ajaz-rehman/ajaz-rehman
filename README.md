@@ -42,3 +42,18 @@ An AI-based image generation and editing tool utilizing an AI model API from Hug
 - Developed the backend with the Serverless framework and AWS Lambda, enabling cost-effective scaling.
 - Implemented authentication with AWS Cognito, ensuring secure access to the application.
 - Used AWS DynamoDB for user data storage and deployed the front end with AWS S3 and CloudFront.
+
+## Hobbies and Interests
+
+- 🎮 I enjoy playing video games and exploring virtual worlds.
+- 🖌️ I dabble in 3D modeling and enjoy creating digital art.
+- 📺 I'm an anime enthusiast and love watching movies and TV shows.
+- 🥾 Hiking is one of my favorite ways to unwind and connect with nature.
+- 🌍 I have a desire to travel to different countries and learn about various cultures.
+- 🇩🇪 I'm passionate about learning new languages and cultures, with a desire to move to Germany one day.
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/ajaz-ur-rehman)
+- [Email](mailto:ajazurrehman4@gmail.com)
+- 
