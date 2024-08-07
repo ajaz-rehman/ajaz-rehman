@@ -1,7 +1,7 @@
 # Hi, I'm Ajaz
 
 - 🖥️ I've been coding in JavaScript and TypeScript, primarily for over 5 years.
-- 🏗️ I'm the founder of [Clearalist](https://clearalist.com), [ImgAlly](https://imgally.com), and AutomateMyApp (no longer live).
+- 🏗️ I'm the founder of [Clearalist](https://clearalist.com), [ImgAlly](https://imgally.com), and [AutomateMyApp](https://automatemyapp.com)AutomateMyApp.
 - 🦀 I enjoy building SaaS services and working on greenfield projects.
 - 🐦 I'm seeking a back-end or full-stack role, ideally writing JavaScript or Python.
 - 🎤 I'd love to work at a startup on a tight-knit team where I can quickly make an impact.
@@ -29,7 +29,7 @@ A Bulk Email List Verification service that uses Telnet and SMTP protocols to ve
 - Integrated PayPal for one-time payments and developed an affiliate system to boost sales.
 - Set up automated end-to-end testing, configured Nginx as a reverse proxy, and deployed on AWS.
 
-### [AutomateMyApp](https://automatemyapp.com) (No longer live)
+### [AutomateMyApp](https://automatemyapp.com)
 A workflow automation service that enabled users to connect apps and transfer data between them.
 
 - Integrated 10+ popular apps, including Gmail, Google Sheets, and Discord, using OAuth and Webhooks.
