@@ -1,7 +1,7 @@
 # Hi, I'm Ajaz
 
 - 🖥️ I've been coding in JavaScript and TypeScript, primarily for over 5 years.
-- 🏗️ I'm the founder of [Clearalist](https://clearalist.com), [ImgAlly](https://imgally.com), and [AutomateMyApp](https://automatemyapp.com)AutomateMyApp.
+- 🏗️ I'm the founder of [Clearalist](https://clearalist.com), [ImgAlly](https://imgally.com), and [AutomateMyApp](https://automatemyapp.com).
 - 🦀 I enjoy building SaaS services and working on greenfield projects.
 - 🐦 I'm seeking a back-end or full-stack role, ideally writing JavaScript or Python.
 - 🎤 I'd love to work at a startup on a tight-knit team where I can quickly make an impact.
