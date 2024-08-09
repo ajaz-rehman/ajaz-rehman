@@ -3,7 +3,7 @@
 * 🖥️ I've been coding in JavaScript and TypeScript, primarily for over 4 years.
 * 🏗️ I'm the founder of [Clearalist](https://clearalist.com) and [AutomateMyApp](https://automatemyapp.com).
 * 🦀 I enjoy building SaaS services and working on greenfield projects.
-* 🐦 I'm seeking a back-end or full-stack role, ideally writing JavaScript or Python.
+* 🐦 I'm seeking a Back-End or Full-Stack role, ideally writing JavaScript or Python.
 * 🎤 I'd love to work at a startup on a tight-knit team where I can quickly make an impact.
 
 ## About Me
