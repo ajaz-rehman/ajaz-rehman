@@ -8,15 +8,13 @@
 
 ## About Me
 
-Full-stack developer with a passion for building innovative SaaS products and a knack for tackling greenfield projects. With over 5 years of experience in JavaScript, TypeScript, React.js, Node.js, and AWS, I've worn many hats – from crafting sleek front-end interfaces to architecting robust back-end systems.
+Full-stack developer with over 5 years of experience building innovative SaaS products and tackling greenfield projects. I'm passionate about solving complex problems with technology, from designing sleek front-end interfaces to architecting scalable back-end systems.
 
-My journey in tech has been an exciting ride. I've had the privilege of working with cutting-edge companies like Adsum, where I developed AI-powered tax solutions, and SKOOT, where I contributed to eco-friendly tech initiatives. But what gets my coding fingers twitching is the thrill of building something from scratch. That's why I've founded two SaaS products of my own – each solving unique challenges in the digital space.
+I've contributed to cutting-edge companies like Adsum, where I developed AI-powered tax solutions, and SKOOT, where I worked on eco-friendly tech initiatives. My entrepreneurial spirit led me to found two SaaS products, Clearalist and AutomateMyApp, each addressing unique challenges in the digital space.
 
-I'm also learning Python and finding it incredibly exciting. This new skill is opening up even more possibilities for me to explore and innovate in the tech world.
+Currently, I'm diving into Python to expand my technical repertoire, opening new doors for innovation and exploration. Beyond coding, I'm an avid gamer, 3D modeler, and hiker, always seeking inspiration from diverse experiences.
 
-When I'm not deep in code, you might find me exploring virtual worlds in video games, bringing ideas to life through 3D modeling, or hiking trails to recharge my creative batteries. I'm a firm believer that diverse experiences fuel innovation, and I'm always on the lookout for the next big challenge.
-
-Let's connect and chat about how we can create something amazing together!
+Let's connect and discuss how we can create impactful technology together!
 
 ## Work Experience
 
