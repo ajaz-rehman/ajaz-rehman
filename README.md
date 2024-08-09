@@ -30,12 +30,12 @@ Let's connect and chat about how we can create something amazing together!
 - Created responsive, accessible web pages using Micro-Frontend Architecture.
 - Delivered the product 1 month ahead of schedule by meeting milestones and completing tasks early.
 
-### Founder & Full-Stack Developer at [AutomateMyApp](https://automatemyapp.com) (Jan 2021 - Sep 2021)
+### Founder, and Full-Stack Developer at [AutomateMyApp](https://automatemyapp.com) (Jan 2021 - Sep 2021)
 - Integrated 10+ popular apps, including Gmail, Google Sheets, and Discord, using OAuth and Webhooks.
 - Enabled subscription payments with PayPal and used JWT and Google OAuth for authentication.
 - Implemented automated end-to-end testing, configured emails with SES, and deployed on AWS.
 
-### Founder & Full-Stack Developer at [Clearalist](https://clearalist.com) (Jan 2020 - Dec 2020)
+### Founder, and Full-Stack Developer at [Clearalist](https://clearalist.com) (Jan 2020 - Dec 2020)
 - Implemented a queue-based job processing system with AWS SQS, ensuring reliability and accuracy.
 - Integrated PayPal for one-time payments and developed an affiliate system to boost sales.
 - Set up automated end-to-end testing, configured Nginx as a reverse proxy, and deployed on AWS.
