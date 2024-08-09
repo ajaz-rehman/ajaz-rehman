@@ -18,7 +18,7 @@ When I'm not deep in code, you might find me exploring virtual worlds in video g
 
 Let's connect and chat about how we can create something amazing together!
 
-## Professional Experience
+## Work Experience
 
 ### Front-End Developer at [Adsum](https://adsum-works.com) (Jul 2022 - Sep 2023)
 - Developed a custom KYC flow with Veriff, automating user verification.
