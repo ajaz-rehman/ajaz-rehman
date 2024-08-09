@@ -1,6 +1,6 @@
 # Hi, I'm Ajaz
 
-* 🖥️ I've been coding in JavaScript and TypeScript, primarily for over 4 years.
+* 🖥️ I've been coding in JavaScript and TypeScript, primarily for over 5 years.
 * 🏗️ I'm the founder of [Clearalist](https://clearalist.com) and [AutomateMyApp](https://automatemyapp.com).
 * 🦀 I enjoy building SaaS services and working on greenfield projects.
 * 🐦 I'm seeking a Back-End or Full-Stack role, ideally writing JavaScript or Python.
@@ -8,7 +8,7 @@
 
 ## About Me
 
-Full-stack developer with a passion for building innovative SaaS products and a knack for tackling greenfield projects. With over 4 years of experience in JavaScript, TypeScript, React.js, Node.js, and AWS, I've worn many hats – from crafting sleek front-end interfaces to architecting robust back-end systems.
+Full-stack developer with a passion for building innovative SaaS products and a knack for tackling greenfield projects. With over 5 years of experience in JavaScript, TypeScript, React.js, Node.js, and AWS, I've worn many hats – from crafting sleek front-end interfaces to architecting robust back-end systems.
 
 My journey in tech has been an exciting ride. I've had the privilege of working with cutting-edge companies like Adsum, where I developed AI-powered tax solutions, and SKOOT, where I contributed to eco-friendly tech initiatives. But what gets my coding fingers twitching is the thrill of building something from scratch. That's why I've founded two SaaS products of my own – each solving unique challenges in the digital space.
 
