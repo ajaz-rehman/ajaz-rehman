@@ -35,14 +35,14 @@ Let's connect and chat about how we can create something amazing together!
 * Reviewed the code of fellow developers on my team, helping each other write high-quality code.
 
 ### Founder, and Full-Stack Developer at [AutomateMyApp](https://automatemyapp.com) (Jan 2021 - Sep 2021)
-* Designed, and developed a Workflow Automation service like Zapier that supports 10+ popular apps.
+* Designed and developed a Workflow Automation service like Zapier that supports 10+ popular apps.
 * Built an easy-to-use no-code workflow builder, enabling users to create automation without coding.
 * Integrated apps, including Gmail, Google Sheets, Calendly, and Discord, using OAuth and Webhooks.
 * Enabled subscription payments with PayPal and used JWT and Google OAuth for authentication.
 * Implemented automated end-to-end testing, configured emails with SES, and deployed on AWS.
 
 ### Founder, and Full-Stack Developer at [Clearalist](https://clearalist.com) (Jan 2020 - Dec 2020)
-* This product has served over 1000 users and verified over 5 million emails so far since its launch.
+* Designed and developed an Email Verification service that has served over 1000 users so far.
 * Implemented a queue-based job processing system using SQS, improving reliability, and accuracy.
 * Added custom JWT token-based authentication mechanism, ensuring secure access to the API.
 * Integrated PayPal for one-time payments and developed an affiliate system, boosting sales by 20%.
