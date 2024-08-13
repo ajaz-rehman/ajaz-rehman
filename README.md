@@ -55,7 +55,7 @@ Let's connect and discuss how we can create impactful technology together!
 
 ## Projects
 
-### [ImgAlly](https://imgally.com)
+### [ImgAlly](https://app.imgally.com)
 An AI-based image generation and editing tool utilizing an AI model API from HuggingFace.
 
 * Developed the backend with the Serverless framework and AWS Lambda, enabling cost-effective scaling.
