@@ -18,14 +18,14 @@ Let's connect and discuss how we can create impactful technology together!
 
 ## Work Experience
 
-### Front-End Developer at [Adsum](https://adsum-works.com) (Jul 2022 - Sep 2023)
+### Front-End Developer at [Adsum-Works](https://adsum-works.com) (Jul 2022 - Sep 2023)
 * Developed a custom KYC flow using Veriff, automating user verification and eliminating manual work.
 * Created a UI component library with over 100 components, based on Atomic Design principles.
 * Developed the entire frontend application using Next, finishing 2 months ahead of the deadline.
 * Built a ChatGPT-like chat interface for the Tax AI support bot, reducing user queries significantly.
 * Established an effective communication channel with the team, improving development speed.
 
-### Front-End Developer at [SKOOT](https://skoot.eco) (Dec 2021 - May 2022)
+### Front-End Developer at [SkootEco](https://skoot.eco) (Dec 2021 - May 2022)
 * Developed a central UI component library with over 50 reusable components, enhancing modularity.
 * Created responsive, and accessible web pages based on a Micro-Frontend Architecture.
 * Delivered the product 1 month before schedule by meeting milestones and completing tasks early.
