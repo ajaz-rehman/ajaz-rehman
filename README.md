@@ -4,10 +4,6 @@
 * 🏗️ I'm the founder of [Clearalist](https://clearalist.com) and [AutomateMyApp](https://automatemyapp.com).
 * 🦀 I enjoy building SaaS services and working on greenfield projects.
 
-## About Me
-
-Software Engineer with over 5 years of experience building SaaS products and tackling greenfield projects. I'm passionate about solving complex problems with technology, from designing sleek front-end interfaces to architecting scalable back-end systems.
-
 ## Skills
 
 #### Languages
