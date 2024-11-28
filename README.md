@@ -7,7 +7,7 @@
 ## Skills
 
 #### Languages
-[![Skillsets](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
+[![Skillsets](https://skillicons.dev/icons?i=go,js,ts,py)](https://skillicons.dev)
 
 #### Front-End
 [![Skillsets](https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,vite)](https://skillicons.dev)
@@ -16,4 +16,4 @@
 [![Skillsets](https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,aws)](https://skillicons.dev)
 
 #### Database
-[![Skillsets](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![Skillsets](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql)](https://skillicons.dev)
